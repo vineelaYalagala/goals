@@ -1,0 +1,46 @@
+header h1{
+    text-align
+}
+.demo
+{
+    background-color: silver;
+    width:100%;
+    justify-content:space-around;
+    display: flex;
+    flex-wrap: wrap;
+}
+#in1,#in2
+{
+
+    color:blue;
+    text-align: center;
+    background:powderblue;
+    margin: 2% 0%;
+    border-radius:7% 0%;
+}
+img{
+    border-radius: 50%;
+    padding top=1%;
+}
+/* media query for mobile view*/
+   @media (min-width:320px) and (max-width:460px){
+   .demo
+   {
+     width:98%;
+   }
+   #in1,#in2
+{
+    width:80%;
+    display:flex;
+    text-align:center;
+}
+
+
+    img{
+        padding-left:5em;
+    }
+.data
+{
+    padding:3em 2em;
+}
+}

@@ -1,0 +1,22 @@
+{
+    "basics":{
+        "name":"vinni",
+        "role":"fresher",
+        "email":"vineelavinni@gmail.com",
+        "mobile":"+91 9391173242",
+        "education":[
+            {
+                "degree":"SSC",
+                "GPA":9.7
+            },
+            {
+                "degree":"INTER",
+                "GPA":9.7
+            },
+            {
+                "degree":"B.TECh",
+                "GPA":9.0
+            }
+        ]
+    }
+}
